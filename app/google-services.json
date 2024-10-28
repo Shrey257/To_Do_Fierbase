@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "99375720505",
+    "project_id": "n100-assignment",
+    "storage_bucket": "n100-assignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99375720505:android:0c8902b4be1c74863bc5e8",
+        "android_client_info": {
+          "package_name": "com.example.n100_assignemnt_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyoNR72oyP52WACWQPx1lvIoXGwiQAJ0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
